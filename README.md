@@ -39,7 +39,6 @@
 
 <a href="https://github.com/kartikeydev777">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikeydev777&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeydev777&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -48,8 +47,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kartikey-342209240/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kartikey.777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/kartikey-342209240/"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://www.instagram.com/kartikey.777/"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 
 </p>
 
