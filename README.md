@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h1 align="center">Hey there! I'm Kartikey <img src="https://github.com/abhiii95/abhiii95/blob/main/Assets/Mario_Hello_Big.gif" width="30px"></h1>
 
-<h2> Hey there! I'm Kartikey.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -47,9 +46,13 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kartikey-342209240/"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-<a href="https://www.instagram.com/kartikey.777/"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+<a href="https://www.linkedin.com/in/kartikey-342209240/">
+  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/kartikey.777/">
+  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 </p>
-
+<br>
 ⭐️ From [kartikeydev777](https://github.com/kartikeydev777)
