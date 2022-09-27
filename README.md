@@ -26,7 +26,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
-  
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
 - 🔧 &nbsp;
