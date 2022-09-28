@@ -46,12 +46,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kartikey-342209240/">
-  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/kartikey.777/">
-  <img align="left" alt="Abhilash Mishra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://www.linkedin.com/in/kartikey-342209240/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kartikey%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/kartikey.777/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kartikey.777-red?style=flat-square&logo=instagram"></a>
 
 </p>
 <br>
