@@ -10,7 +10,7 @@
 
 ### 🖥️ Working Area: browser.exe
 <div align="center">
-  <img src="https://github-profile-utils.herokuapp.com/browser-mockup?url=https://kartikey-portfolio.vercel.app&title=Kartikey's%20Work" width="800" />
+  <img src="https://github-profile-utils.herokuapp.com/browser-mockup?url=https://kartikey.site&title=Kartikey's%20Work" width="800" />
 </div>
 
 > **Note:** Above is a mockup of my coding workspace. I specialize in turning complex logic into pixel-perfect interfaces.
