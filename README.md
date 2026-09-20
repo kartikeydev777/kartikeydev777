@@ -70,18 +70,46 @@ I'm a Full Stack Engineer with **3+ years of experience** building scalable web 
 
 ### 🚀 Featured Projects
 
-> Replace the links below with your actual repo/live-demo URLs — add a short GIF or screenshot to each repo's own README for extra impact.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Salon Staff Hiring Platform](#)** | Full-stack hiring platform for the salon industry, serving 100K+ monthly users. Built the frontend architecture, employer dashboards, and a PWA shipped alongside native Android & iOS apps. | React, Next.js, React Native (Expo), Node.js, MongoDB, Tailwind CSS |
-| **[Hotel Management System](#)** | End-to-end hotel management platform — responsive UI, backend modules, and REST APIs for bookings and staff operations. | PHP (CodeIgniter), React.js, MySQL, Bootstrap, Tailwind CSS |
-| **[Your Next Project](#)** | *Add a personal or open-source project here — a side project is a great way to show initiative outside of work.* | — |
+<a href="https://shipsignal.kartikey.site">
+  <img src="https://res.cloudinary.com/dasniqc48/image/upload/v1789466413/shipSignal-Cover_xmwtj1.jpg" width="100%" alt="ShipSignal cover" />
+</a>
 
-<!--
-Pin your best repos on your GitHub profile so they show up automatically below this section:
-Profile → Customize your pins → select up to 6 repos
--->
+#### ShipSignal
+Community-driven feedback & public roadmap platform for SaaS builders.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
+**[🔗 Live Demo](https://shipsignal.kartikey.site)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://mailbase.kartikey.site">
+  <img src="https://res.cloudinary.com/dasniqc48/image/upload/v1774765933/Desktop_-_4_xvzwy8.jpg" width="100%" alt="Mailbase cover" />
+</a>
+
+#### Mailbase
+A free collection of email components and templates.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Email-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+
+**[🔗 Live Demo](https://mailbase.kartikey.site)**
+
+</td>
+</tr>
+</table>
 
 ---
 
