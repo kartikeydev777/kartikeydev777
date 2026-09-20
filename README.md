@@ -1,141 +1,111 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6cnR6Y2Z6Znp6Znp6Znp6Znp6Znp6Znp6Znp6Znp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Hi, I'm Kartikey
+<h1 align="center">Hi, I'm Kartikey 👋</h1>
+<h3 align="center">Full Stack Developer  •  Frontend Specialist  •  Turning complexity into usable systems</h3>
 
-<p align="left">
-  <a href="https://github.com/kartikeydev777">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Frontend+Engineer;React+JS+Specialist;MERN+Stack+Explorer;Building+the+Future+of+UI" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 🖥️ Working Area: browser.exe
-<div align="center">
-  <img src="https://github-profile-utils.herokuapp.com/browser-mockup?url=https://kartikey.site&title=Kartikey's%20Work" width="800" />
-</div>
-
-> **Note:** Above is a mockup of my coding workspace. I specialize in turning complex logic into pixel-perfect interfaces.
-
----
-
-### 🛠 Tech Stack (The Toolkit)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,ts,js,html,css,git,vscode,postman,figma" />
-  </a>
-</p>
-
----
-
-### 📊 Vital Signs (Live Activity)
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeydev777&theme=tokyonight&area=true" width="100%" />
+  <a href="https://kartikey.site"><img src="https://img.shields.io/badge/Portfolio-kartikey.site-1F3A5F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Kartikeydev777"><img src="https://img.shields.io/badge/LinkedIn-Kartikeydev777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Kartikey777dev@gmail.com"><img src="https://img.shields.io/badge/Email-Kartikey777dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeydev777&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeydev777&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3A5F&center=true&vCenter=true&width=650&lines=Frontend-focused+Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+React+Native;3%2B+years+building+production+web+%26+mobile+apps;Lighthouse+35+%E2%86%92+80%2B+%7C+100+SEO+score" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🐍 The Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake.svg">
-</picture>
+### 👨‍💻 About Me
 
-*(Note: To activate the snake, you need to set up a simple GitHub Action. See below!)*
+I'm a Full Stack Engineer with **3+ years of experience** building scalable web and mobile applications, with a strong lean toward **frontend engineering**. I care about clean architecture, performance, accessibility, and shipping products that actually feel good to use — currently building at **Letsryl**, working across React, Next.js, React Native, Node.js, and MongoDB.
 
----
-
-### 🎵 Currently Vibing To...
-<a href="https://github.com/novatorem/novatorem">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight" />
-</a>
+- 🔭 Currently building a **salon staff hiring platform** serving **100K+ monthly users**
+- ⚡ Took a production app's Lighthouse score from **~35 → 80+** and hit a **100 SEO score**
+- 📱 Ship one React Native (Expo) codebase to **PWA + Android + iOS**
+- 🌱 Always exploring performance optimization, accessibility, and AI-assisted development workflows
+- 📫 Reach me at **Kartikey777dev@gmail.com**
 
 ---
 
-### 🤝 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kartikeydev777&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="kartikeydev777" />
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=20&section=footer" width="100%"/>
-</div>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+</p>
 
+**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6cnR6Y2Z6Znp6Znp6Znp6Znp6Znp6Znp6Znp6Znp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Welcome to My Digital Lab
-
-<p align="left">
-  <a href="https://kartikey.site">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&size=24&width=500&lines=I'm+Kartikey;Frontend+Engineer;Design+Engineer;MERN+Stack+Developer;Building+Bento+UIs..." alt="Typing SVG" />
-  </a>
+**Cloud, DevOps & Tools**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### 🧪 Kartikey's Lab Stats `v2.0.5`
-<div align="center">
-  <img src="https://github-profile-utils.herokuapp.com/browser-mockup?url=https://kartikey.site&title=Kartikey's%20Portfolio" width="100%" />
-</div>
+### 🚀 Featured Projects
+
+> Replace the links below with your actual repo/live-demo URLs — add a short GIF or screenshot to each repo's own README for extra impact.
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Salon Staff Hiring Platform](#)** | Full-stack hiring platform for the salon industry, serving 100K+ monthly users. Built the frontend architecture, employer dashboards, and a PWA shipped alongside native Android & iOS apps. | React, Next.js, React Native (Expo), Node.js, MongoDB, Tailwind CSS |
+| **[Hotel Management System](#)** | End-to-end hotel management platform — responsive UI, backend modules, and REST APIs for bookings and staff operations. | PHP (CodeIgniter), React.js, MySQL, Bootstrap, Tailwind CSS |
+| **[Your Next Project](#)** | *Add a personal or open-source project here — a side project is a great way to show initiative outside of work.* | — |
+
+<!--
+Pin your best repos on your GitHub profile so they show up automatically below this section:
+Profile → Customize your pins → select up to 6 repos
+-->
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <i>"I love building things, experimenting, and occasionally breaking them to learn more."</i>
-</p>
-
----
-
-### 🛠 The Toolkit (Tech Stack)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,nodejs,express,mongodb,aws,framer,gsap,git,vscode,vercel,postman" />
-  </a>
-</p>
-
----
-
-### 📊 Real-time Vital Signs
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeydev777&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kartikeydev777&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeydev777&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeydev777&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeydev777&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeydev777&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 The contribution_snake.exe
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kartikeydev777/kartikeydev777/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎓 Background
+
+- **MCA**, GLA University, Mathura (2023 – 2025)
+- **BCA**, RATM, Mathura (2020 – 2023)
+- Currently: **Software Developer @ Letsryl** | Previously: **Full Stack Engineer @ Osculant Technologies**
 
 ---
 
-### 🛸 Featured Experiments (from kartikey.site)
-| Feature | Tech | Live Snippet |
-| :--- | :--- | :--- |
-| **Magnetic Button** | React + Framer Motion | [View Code](https://github.com/kartikeydev777) |
-| **Bento Grid Layout** | Next.js + Tailwind | [View Code](https://github.com/kartikeydev777) |
-| **3D Perspective Card** | CSS + JS | [View Code](https://github.com/kartikeydev777) |
-
----
-
-### 🤝 Direct Connect
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kartikeydev777&label=VISITORS&color=45A1FF&style=for-the-badge" alt="kartikeydev777" />
+<p align="center">
+  <i>📩 Open to full stack & frontend opportunities — let's build something.</i>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=45A1FF&height=20&section=footer" width="100%"/>
-</div>
